@@ -6,3 +6,10 @@ tmp
 *:Zone.Identifier
 data/*
 .vscode
+data/
+eeg_data/ 
+eeg_data_cvs/
+eeg_data_spec_tensors/
+eeg_data_spec_tensors_unnorm/
+
+
